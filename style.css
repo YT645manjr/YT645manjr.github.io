@@ -1,0 +1,36 @@
+html {
+  .navbar-dark .nav-item .nav-link {
+    color: #fff;
+  }
+
+  .navbar-dark .nav-item .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    border-radius: 0.25rem;
+    color: #fff;
+  }
+
+  .fa-li {
+    position: relative;
+    left: 0;
+  }
+  height: 100%;
+  width: 100%;
+}
+
+img{
+
+  margin: 10px;
+  border:15px solid red;
+  padding: 4px;
+  height: 75%;
+  width: 75%;
+}
+body{
+  background-color: antiquewhite;
+
+}
+
+h1 {
+color: red;
+}
